@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO: Consider what data to backup.
+         By default all shared preferences are backed up.
+         Learn more at https://developer.android.com/guide/topics/data/autobackup
+    Ex: <include domain="sharedpref" path="."/> -->
+</full-backup-content>

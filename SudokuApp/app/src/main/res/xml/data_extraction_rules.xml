@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup disableIfNoEncryptionCapabilities="true">
+        <!-- TODO: Consider what data to backup.
+             By default only shared_prefs are backed up.
+             Ex: <include domain="sharedpref" path="."/> -->
+    </cloud-backup>
+    <device-transfer>
+        <!-- TODO: Consider what data to transfer.
+             By default only shared_prefs are transferred.
+             Ex: <include domain="sharedpref" path="."/> -->
+    </device-transfer>
+</data-extraction-rules>
